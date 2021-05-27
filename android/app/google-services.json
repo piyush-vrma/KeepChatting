@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "250984796556",
+    "firebase_url": "https://keep-chatting-12b2d.firebaseio.com",
+    "project_id": "keep-chatting-12b2d",
+    "storage_bucket": "keep-chatting-12b2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250984796556:android:982caf73ee19cb041b86a9",
+        "android_client_info": {
+          "package_name": "vermaindustries.keep_chatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250984796556-nuc26pclp9sm4vgu6anch042u7jejrgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7M-nhW_hTPaHLr0-d5JBayysLK_3oTeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250984796556-nuc26pclp9sm4vgu6anch042u7jejrgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
